@@ -1,1 +1,1 @@
-To jest nowe repo
+To jest nowe repozytorium do nauki
